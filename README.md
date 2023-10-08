@@ -11,7 +11,7 @@ I aspire to be a software engineer/developer because of my huge passion for crea
 - Gaming 🎮
 - Exploring/Traveling 🚶🏞️✈️
 - Gym 💪
-- Learning 🌐
+- Learning 🌐🧠
 
 ## My Socials
 
