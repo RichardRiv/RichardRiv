@@ -4,7 +4,7 @@
 
 ## About Me
 
-I aspire to be a software engineer/developer because of my huge passion on creating things that I get to call mine. These "things" are not just coding related, they also include designs made in photoshop! I have earned a bachelers degree in Computer Systems and will be receving a Masters degree in Information Systems soon. I figured I could mesh business and tech to have a better understanding on how they work together 💼💻
+I aspire to be a software engineer/developer because of my huge passion for creating things that I get to call mine. These "things'' are not just coding related, they also include designs made in photoshop! I have earned a bachelor's degree in Computer Systems and will be receiving a Masters degree in Information Systems soon. I figured I could mesh business and tech to have a better understanding on how they work together 💼💻
 
 ## Favorite Hobbies
 
