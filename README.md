@@ -10,55 +10,57 @@ I aspire to be a software engineer/developer because of my huge passion for crea
 
 - Gaming 🎮
 - Exploring/Traveling 🚶🏞️✈️
-- Gym 💪
+- Calisthenics 🤸‍♂️💪
 - Learning 🌐🧠
 
-## My Socials
+## Socials
 
-<p align="left">
-<a href="https://www.linkedin.com/in/richard-rivera-/" target="_blank"><img width="30px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"></a> &nbsp;
-<a href="https://www.instagram.com/nyc.me3/" target="_blank"><img width="30px" src="https://cdn.svgporn.com/logos/instagram-icon.svg"></a> &nbsp;
-<a href="https://open.spotify.com/user/122982910?si=9e47458bea0240a9" target="_blank"><img width="30px" src="https://cdn.svgporn.com/logos/spotify-icon.svg"></a> &nbsp;
-<a href="https://avatar-nine-steel.vercel.app/" target="_blank"><img width="35px" src="https://cdn.svgporn.com/logos/discord-icon.svg"></a> &nbsp;
-</p>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/richard-rivera-/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nyc.me3/)
+[![My Skills](https://skillicons.dev/icons?i=spotify)](https://open.spotify.com/user/122982910?si=9e47458bea0240a9)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://devr.app)
 
-## Tech Stack
+## Main Tech Stack
 
-<!-- ![vscode](https://cdn.svgporn.com/logos/visual-studio-code.svg) -->
-<p align="left">
-<img src="https://cdn.svgporn.com/logos/html-5.svg" style="width:25px;"/> &nbsp;
-<img src="https://cdn.svgporn.com/logos/css-3.svg" style="width:25px;"/> &nbsp;
-<img src="https://cdn.svgporn.com/logos/javascript.svg" style="width:30px;"/> &nbsp;
-<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" style="width:30px;"/> &nbsp;
-<img src="https://cdn.svgporn.com/logos/git-icon.svg" style="width:30px;"/> &nbsp;
-<img src="https://cdn.svgporn.com/logos/java.svg" style="width:30px;"/> &nbsp;
-<img src="https://cdn.svgporn.com/logos/c-sharp.svg" style="width:30px;"/> &nbsp;
-<img src="https://cdn.svgporn.com/logos/c-plusplus.svg" style="width:30px;"/> &nbsp;
-<img src="https://cdn.svgporn.com/logos/python.svg" style="width:30px;"/> &nbsp;
-<img src="https://cdn.svgporn.com/logos/react.svg" style="width:30px;"/> &nbsp;
-<img src="https://cdn.svgporn.com/logos/sass.svg" style="width:35px;"/> &nbsp;
-<img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" style="width:35px;"/> &nbsp;
-<img src="https://cdn.svgporn.com/logos/spring-icon.svg" style="width:30px;"/> &nbsp;
-<img src="https://cdn.svgporn.com/logos/jquery.svg" style="width:100px;"/> &nbsp;
-<img src="https://cdn.svgporn.com/logos/firebase.svg" style="width:30px;"/> &nbsp;
-<img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" style="width:20px;"/> &nbsp;
-<img src="https://cdn.svgporn.com/logos/wordpress-icon-alt.svg" style="width:30px;"/> &nbsp;
-<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" style="width:30px;"/> &nbsp;
-<img src="https://cdn.svgporn.com/logos/visual-studio.svg" style="width:30px;"/> &nbsp;
-<img src="https://cdn.svgporn.com/logos/intellij-idea.svg" style="width:30px;"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=react)](https://en.wikipedia.org/wiki/React_(software))
+[![My Skills](https://skillicons.dev/icons?i=dotnet)](https://en.wikipedia.org/wiki/.NET_Framework)
+<a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Microsoft_SQL_Server_2025_icon.svg/120px-Microsoft_SQL_Server_2025_icon.svg.png" alt="MSSQL" style="width:48px"/> 
+</a>
 
-<!--
-**RichardRiv/RichardRiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Other Technologies Used
 
-Here are some ideas to get you started:
+### Languages & Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML5)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://en.wikipedia.org/wiki/TypeScript)
+[![My Skills](https://skillicons.dev/icons?i=angular)](https://en.wikipedia.org/wiki/Angular_(web_framework))
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://en.wikipedia.org/wiki/Tailwind_CSS)
+[![My Skills](https://skillicons.dev/icons?i=sass)](https://en.wikipedia.org/wiki/Sass_(style_sheet_language))
+[![My Skills](https://skillicons.dev/icons?i=java)](https://en.wikipedia.org/wiki/Java_(programming_language))
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://en.wikipedia.org/wiki/Python_(programming_language))
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://en.wikipedia.org/wiki/Node.js)
+[![My Skills](https://skillicons.dev/icons?i=jquery)](https://en.wikipedia.org/wiki/JQuery)
+[![My Skills](https://skillicons.dev/icons?i=spring)](https://en.wikipedia.org/wiki/Spring_Framework)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Cloud & Databases:
+[![My Skills](https://skillicons.dev/icons?i=azure)](https://en.wikipedia.org/wiki/Microsoft_Azure)
+[![My Skills](https://skillicons.dev/icons?i=firebase)](https://en.wikipedia.org/wiki/Firebase)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://en.wikipedia.org/wiki/MongoDB)
+
+### Tools & Practices:
+[![My Skills](https://skillicons.dev/icons?i=git)](https://en.wikipedia.org/wiki/Git)
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://en.wikipedia.org/wiki/Linux)
+[![My Skills](https://skillicons.dev/icons?i=bash)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://en.wikipedia.org/wiki/Figma)
+[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://en.wikipedia.org/wiki/WordPress)
+[![My Skills](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://en.wikipedia.org/wiki/Vercel)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://en.wikipedia.org/wiki/Visual_Studio)
+[![My Skills](https://skillicons.dev/icons?i=rider)](https://en.wikipedia.org/wiki/JetBrains#IDEs)
+
+*Icons provided by [Skill Icons](https://skillicons.dev/) and [Wikipedia](https://www.wikipedia.org/)*
